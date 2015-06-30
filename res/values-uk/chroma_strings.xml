@@ -87,8 +87,9 @@
     <string name="reset_string">Скинути</string>
     <string name="reset">Скинути</string>
     <string name="empty_string">Пусте</string>
-    <string name="ok">Ok</string>
+    <string name="font_size_sample">Звичайний</string>
     <string name="attention">Увага</string>
+    
 
     <!-- Display : Rotation -->
     <string name="display_rotation_title">Поворот екрану</string>
@@ -301,6 +302,7 @@
     <string name="battery_light_full_color_title">Повністю заряджений</string>
 
     <!-- Lights settings screen, notification light settings -->
+    <string name="notification_light_category">LED індикація</string>
     <string name="notification_light_title">Індикація сповіщень</string>
     <string name="notification_light_general_title">Основні</string>
     <string name="notification_light_applist_title">Додатки</string>
